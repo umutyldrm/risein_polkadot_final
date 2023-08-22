@@ -1,0 +1,4 @@
+Followed through instructions and completed a transaction using frontend.
+Since it is a pretty straightforward process and I have not came across anyproblems
+I kept this part simple. One note is that while trying to do a transaction with value
+62 I have received an error saying it is below minimum level allowed.

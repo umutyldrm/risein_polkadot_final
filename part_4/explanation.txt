@@ -1,0 +1,4 @@
+smart contracts part was pretty straightforward thought I have faced some problems while getting my node up
+due to the version problems. Managed to get the node running and instantiated my contract. Later called get and flip
+methods my smart contract provides me using my instandiated contacts hash value. After completing, I had 3 blocks in my
+blockchain for instantiate, get and flip respectively.

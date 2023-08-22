@@ -1,0 +1,6 @@
+In this part, using grandpa and auro keys provided and building a new chain spec after modifying we are able to
+connect two nodes with each other in a secure manner. Generated values are inside commands_used file along with
+commands used to generate them. In this part, two different users are able to connect two different nodes using
+hashed keys being made known to each other using their grandpa and aura keys. Keys are added to spec file and a
+chain is built based on those specs. We can see discovered message and peer number increase in screenshots provided
+which means the nodes are able to see and interact with each other after following steps.
